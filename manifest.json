@@ -1,0 +1,23 @@
+
+{
+  "name": "Parkdale Pacers Coach",
+  "short_name": "Pacers Coach",
+  "description": "Parkdale Pacers Basketball Tactical Whiteboard & Rotation Tool",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#005C5C",
+  "theme_color": "#005C5C",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://parkdalepacers.org/wp-content/uploads/2020/05/logo-300x275.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://parkdalepacers.org/wp-content/uploads/2020/05/logo-300x275.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
